@@ -24,7 +24,7 @@ Hello, i am darlan J. Oliveira, or DarlanZero. Actually i am a Software Develope
       <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
      <img align="center" alt="Rafa-csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
      <div>
-       <p>I also work with frameworks too, such as React(Nextjs, Node), Tailwindcss and Springboot for Java applications.</p>
+       <p>I also work with frameworks too, such as React(Nextjs, Node, Vite), Tailwindcss and postCSS configs for css file and Springboot for Java applications.</p>
      </div>
 </div>
 
