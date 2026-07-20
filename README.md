@@ -1,55 +1,68 @@
-### Hi there, I am Darlan Oliveira!
+### Hi there, I am Darlan Oliveira! 👋
 
 <!--
 **darlanZero/darlanZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
--------
-Hello, i am darlan J. Oliveira, or DarlanZero. Actually i am a Software Developer Júnior focusing to be a Fullstack developer. Most of my portolio are websites and Landing Pages.
--------
-<div>
-<a href=https://github.com/darlanZero>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darlanZero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanZero&layout=compact&langs_count=16&theme=dracula"/>
+
+## About me
+
+Hello! I'm **Darlan J. Oliveira** — you can call me **DarlanZero**. I'm a **Junior Software Developer** focused on becoming a **Full Stack Developer**.
+
+Most of my portfolio is made of **websites** and **landing pages**, and I also enjoy working on clean, modern, and responsive user experiences.
+
+## Technologies & tools
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darlanZero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanZero&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <h1>My Languages</h1>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Rafa-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-      <img align="center" alt="Rafa-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-      <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-     <img align="center" alt="Rafa-csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-      <img align="center" alt="Rafa-typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-     <div>
-       <p>I also work with frameworks too, such as React(Nextjs, Node, Vite), Tailwindcss and postCSS configs for css file and Springboot for Java applications.</p>
-     </div>
+<div align="center">
+  <h3>Languages & frameworks</h3>
+  <p>
+    <img align="center" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="center" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img align="center" alt="TypeScript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Firebase" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+    <img align="center" alt="C#" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="Java" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="MySQL" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </p>
+
+  <p>
+    I also work with frameworks and tools such as <strong>React</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>Vite</strong>, <strong>Tailwind CSS</strong>, <strong>PostCSS</strong>, and <strong>Spring Boot</strong>.
+  </p>
+</div>
+
+## Contact
+
+<div align="center">
+  <h3>Let's build something together</h3>
+  <p>
+    I'm available for freelance projects. If you have an idea in mind, feel free to reach out through one of the links below.
+  </p>
+
+  <a href="https://www.linkedin.com/in/darlanoliveiradev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://instagram.com/darlanj.oliveira" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:darliankeira229@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://twitter.com/Animessenpai3" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </div>
 
 ##
 
 <div align="center">
-  <h2>My Contacts Form</h2>
-  <p>I also can do freelance projects for you, just send me a message on some of my contact links below and feel free to align the projects you need with me.</p>
-  
-   <a href="https://www.linkedin.com/in/darlanoliveiradev" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-   <a href="https://instagram.com/darlanj.oliveira" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
-   <a href = "mailto:darliankeira229@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-   <a href="https://twitter.com/Animessenpai3" target="_blank">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   
-   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-##
-
