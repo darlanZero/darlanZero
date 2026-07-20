@@ -1,61 +1,61 @@
 <div align="center">
 
-# Olá, eu sou Darlan Oliveira 👋
+# Hi, I'm Darlan Oliveira 👋
 
-### Desenvolvedor Full Stack · Analista de Sistemas
+### Full Stack Developer · Systems Analyst
 
-Construo aplicações web e mobile, APIs e ferramentas de automação — da ideia à entrega.
+I build web and mobile applications, APIs, and automation tools — from concept to delivery.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darlanoliveiradev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlanoliveiradev)
-[![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darliankeira229@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darliankeira229@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Sou **Darlan J. Oliveira**, também conhecido como **DarlanZero**. Trabalho no desenvolvimento de soluções completas, combinando interfaces bem construídas, APIs, integrações e automações.
+I'm **Darlan J. Oliveira**, also known as **DarlanZero**. I develop end-to-end solutions that bring together well-crafted interfaces, APIs, integrations, and automation.
 
-Hoje, meu foco está em:
+My current focus includes:
 
-- aplicações **full stack** com TypeScript, React, Next.js, Angular, Node.js e .NET;
-- aplicativos mobile e multiplataforma com **Flutter e Dart**;
-- APIs, bancos de dados e integrações com serviços externos;
-- ferramentas que transformam problemas reais em fluxos mais simples e eficientes.
+- **full stack applications** built with TypeScript, React, Next.js, Angular, Node.js, and .NET;
+- mobile and cross-platform applications built with **Flutter and Dart**;
+- APIs, databases, and third-party service integrations;
+- tools that turn real-world problems into simpler, more efficient workflows.
 
-Gosto especialmente de projetos que exigem investigação técnica, arquitetura pragmática e uma boa experiência para quem usa o produto.
+I'm especially interested in projects that involve technical investigation, pragmatic architecture, and a thoughtful user experience.
 
-## Projetos em destaque
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/darlanZero/rpg_decryptor_flutter">RPG Auto Decryptor</a></h3>
-      <p>Aplicativo Android feito em Flutter para analisar APKs de jogos RPG Maker, detectar chaves e processar assets criptografados. A lógica foi portada de Python para Dart e inclui integração nativa com Android.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Kotlin</code> <code>Android</code> <code>Criptografia</code></p>
+      <p>An Android app built with Flutter that analyzes RPG Maker game APKs, detects encryption keys, and processes encrypted assets. Its core logic was ported from Python to Dart and includes native Android integration.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Kotlin</code> <code>Android</code> <code>Cryptography</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/darlanZero/Rpgmaker-Toolkit">RPG Maker Toolkit</a></h3>
-      <p>Conjunto de ferramentas em Python para diagnóstico, backup, restauração de assets Live2D e processamento de arquivos de projetos RPG Maker MV/MZ.</p>
-      <p><code>Python</code> <code>Automação</code> <code>CLI</code> <code>File processing</code></p>
+      <p>A Python toolkit for diagnostics, backups, Live2D asset restoration, and file processing in RPG Maker MV/MZ projects.</p>
+      <p><code>Python</code> <code>Automation</code> <code>CLI</code> <code>File processing</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/darlanZero/whatsapp-business-front">Salvazap Frontend</a></h3>
-      <p>Frontend de uma solução integrada ao ecossistema WhatsApp Business, com formulários validados, gerenciamento de dados assíncronos e interface responsiva.</p>
+      <p>The frontend of a solution integrated with the WhatsApp Business ecosystem, featuring validated forms, asynchronous data management, and a responsive interface.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>TanStack Query</code> <code>Zod</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/darlanZero/SimpleAngularSPA">Simple Angular SPA</a></h3>
-      <p>Aplicação single-page criada para aprofundar arquitetura frontend e integração com serviços, dentro da minha evolução no ecossistema Angular e .NET.</p>
+      <p>A single-page application created to deepen my experience with frontend architecture and service integration across the Angular and .NET ecosystems.</p>
       <p><code>Angular</code> <code>TypeScript</code> <code>SPA</code> <code>API integration</code></p>
     </td>
   </tr>
 </table>
 
-## Stack
+## Tech stack
 
 **Frontend**
 
@@ -65,7 +65,7 @@ Gosto especialmente de projetos que exigem investigação técnica, arquitetura 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & dados**
+**Backend & data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -74,7 +74,7 @@ Gosto especialmente de projetos que exigem investigação técnica, arquitetura 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Mobile, automação & ferramentas**
+**Mobile, automation & tools**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -82,21 +82,21 @@ Gosto especialmente de projetos que exigem investigação técnica, arquitetura 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub em números
+## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darlanZero&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Darlan" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanZero&layout=compact&langs_count=8&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Darlan" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darlanZero&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="Darlan's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanZero&layout=compact&langs_count=8&theme=dracula&hide_border=true&locale=en" alt="Darlan's most used languages" />
 </div>
 
 ---
 
 <div align="center">
 
-### Vamos construir algo juntos?
+### Let's build something together
 
-Estou aberto a colaborações, projetos freelance e conversas sobre tecnologia.
+I'm open to collaborations, freelance projects, and conversations about technology.
 
-[LinkedIn](https://www.linkedin.com/in/darlanoliveiradev) · [E-mail](mailto:darliankeira229@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/darlanoliveiradev) · [Email](mailto:darliankeira229@gmail.com)
 
 </div>
