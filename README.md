@@ -28,15 +28,15 @@ I'm especially interested in projects that involve technical investigation, prag
 
 ## Founder at StarsFord
 
-I'm the founder of **[StarsFord](https://github.com/StarsFord)**, a software development and delivery company currently focused on the gaming ecosystem.
+I'm the founder of **[StarsFord](https://github.com/StarsFord)**, a software development and delivery company building practical products for the gaming ecosystem — especially for game developers, translators, localization teams, and players.
 
-We build solutions for:
+Our current projects include:
 
-- **game developers**, helping streamline development and content workflows;
-- **translators and localization teams**, supporting the adaptation of games for new audiences;
-- **players**, creating tools that improve access to and interaction with gaming content.
+- **[Star Translator](https://github.com/StarsFord/star-translator)** — a C#/.NET desktop application for managing game translation projects, strings, validation, and engine-specific workflows;
+- **[StarsRemote](https://github.com/StarsFord/StarsRemote)** — a privacy-conscious, customizable remote gaming platform with desktop and mobile clients;
+- **[StarsTranslation Website](https://github.com/StarsFord/StarsTranslation-Website)** — a full stack platform for game and visual novel translations, with Patreon authentication, role-based access, publishing, version tracking, comments, notifications, and file delivery.
 
-Our goal is to turn specialized challenges into practical, reliable, and accessible software.
+Through StarsFord, I combine product thinking, software architecture, and hands-on development to turn specialized challenges into reliable, accessible tools.
 
 [![StarsFord](https://img.shields.io/badge/Explore-StarsFord-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StarsFord)
 
