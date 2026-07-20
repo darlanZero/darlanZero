@@ -26,6 +26,20 @@ My current focus includes:
 
 I'm especially interested in projects that involve technical investigation, pragmatic architecture, and a thoughtful user experience.
 
+## Founder at StarsFord
+
+I'm the founder of **[StarsFord](https://github.com/StarsFord)**, a software development and delivery company currently focused on the gaming ecosystem.
+
+We build solutions for:
+
+- **game developers**, helping streamline development and content workflows;
+- **translators and localization teams**, supporting the adaptation of games for new audiences;
+- **players**, creating tools that improve access to and interaction with gaming content.
+
+Our goal is to turn specialized challenges into practical, reliable, and accessible software.
+
+[![StarsFord](https://img.shields.io/badge/Explore-StarsFord-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StarsFord)
+
 ## Featured projects
 
 <table>
